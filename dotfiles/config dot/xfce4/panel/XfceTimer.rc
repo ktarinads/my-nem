@@ -1,0 +1,17 @@
+[G0]
+timername=testimer
+time=1170
+timercommand=
+timerinfo=At 19:30
+is_countdown=false
+is_recur=false
+autostart=false
+
+[others]
+nowin_if_alarm=false
+use_global_command=false
+global_command=canberra
+repeat_alarm=false
+repetitions=1
+repeat_interval=10
+

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Sticky
+Comment=launches sticky lmint program
+Exec=sticky
+Icon=xfce4-notes-plugin
+Path=/home/kwon/sticky/
+Terminal=false
+StartupNotify=false

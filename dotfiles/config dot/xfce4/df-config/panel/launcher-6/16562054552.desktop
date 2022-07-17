@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Safe Eyes
+Comment=Protect your eyes from eye strain
+Exec=env GDK_BACKEND=x11 safeeyes
+Icon=safeeyes
+Terminal=false
+Type=Application
+Categories=Utility;
+X-XFCE-Source=file:///usr/share/applications/safeeyes.desktop

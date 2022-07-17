@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="thunar" version="1.0">
+  <property name="last-view" type="string" value="ThunarIconView"/>
+  <property name="last-icon-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_100_PERCENT"/>
+  <property name="last-separator-position" type="int" value="170"/>
+  <property name="last-window-width" type="int" value="773"/>
+  <property name="last-window-height" type="int" value="489"/>
+  <property name="last-window-maximized" type="bool" value="false"/>
+  <property name="last-show-hidden" type="bool" value="true"/>
+  <property name="hidden-bookmarks" type="array">
+    <value type="string" value="file:///home/kwon/Desktop"/>
+    <value type="string" value="trash:///"/>
+    <value type="string" value="network:///"/>
+    <value type="string" value="computer:///"/>
+  </property>
+  <property name="hidden-devices" type="array">
+    <value type="string" value="9CF6F88FF6F86AC2"/>
+  </property>
+</channel>
