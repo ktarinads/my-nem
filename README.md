@@ -1,5 +1,6 @@
 # My version of Nemesis - based on ArcoLinux Nemesis
 
+
 What to do after the installation of the latest version of ArcoLinux?
 
 Personally I will install these applications with the use of the scripts.
@@ -72,4 +73,4 @@ ArchLinux Tweak Tool will work on these distro's
 
 ArchLinux Tweak Tool will NOT work on these distro's
 
-- Manjaro#my-nem test
+- Manjaro
