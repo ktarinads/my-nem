@@ -1,4 +1,4 @@
-# ArcoLinux Nemesis
+# My version of Nemesis - based on ArcoLinux Nemesis
 
 What to do after the installation of the latest version of ArcoLinux?
 
